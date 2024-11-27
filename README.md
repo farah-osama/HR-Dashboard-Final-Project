@@ -6,7 +6,7 @@ This project is an HR Dashboard built using Power BI, designed to provide a comp
 
 ## 🧾 Overview
 
-![HR Analysis Dashboard](./HRDashboard.png)
+![HR Analysis Dashboard](./Dashboard.png)
 
 The dashboard visualizes key HR metrics, making it easier to monitor and manage various aspects of the workforce. It enables users to:
 
